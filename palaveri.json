@@ -16,11 +16,11 @@
     "sijainti": "Helsinki"
   },
   "aika": {
-    "viikonpaiva": "Keskiviikko",
+    "viikonpaiva": "Keskiviikkona",
     "paivamaara": "29.",
-    "kuukausi": "Marraskuuta",
+    "kuukausi": "marraskuuta",
     "vuosi": "2024",
-    "klo": "14:00"
-  },
-  "kesto": "1.5"
+    "klo": "14:00",
+    "kesto": 1.5
+  }
 }
