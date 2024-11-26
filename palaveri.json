@@ -2,7 +2,7 @@
   "otsikko": "Palaveri",
   "palaveri": {
     "aihe": "Responsiivisen verkkosivun kehitys Bootstrapilla ja dynaamisen datan integrointi JSONilla",
-    "osallistujien_lukumäärä": 5
+    "osallistujien_lukumaara": 5
   },
   "osallistujat": [
     {"nimi": "Mikko Mallikas", "titteli": "projektipäällikkö"},
@@ -16,8 +16,8 @@
     "sijainti": "Helsinki"
   },
   "aika": {
-    "viikonpäivä": "Keskiviikko",
-    "päivämäärä": "29.",
+    "viikonpaiva": "Keskiviikko",
+    "paivamaara": "29.",
     "kuukausi": "Marraskuuta",
     "vuosi": "2024",
     "klo": "14:00"
